@@ -2,4 +2,4 @@
 
 This is a place to collect dog-friendly cafes in Tokyo :dog:
 
--- 変更加えてみた
+-- 変更加えてみた！！
